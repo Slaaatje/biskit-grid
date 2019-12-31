@@ -1,6 +1,6 @@
-# 🎉 Biskit Grid Layouts
+# 📐 Biskit Grid Layouts
 
-The Biskit Grid 
+The Biskit Grid Layouts helps align page elements based on sequenced columns and rows. We use this column-based structure to place text, images, and functions in a consistent way throughout the design. We have two presets thats mobile and desktop.
 
 ## 📝 Change Log
 Contains release notes on current and previous versions of the Biskit Design Kit. 
